@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://github.com/c0ld-is-hot"
-        <img src="https://discord-readme.vercel.app/api/972266259372703764"
+        <img src="https://discord-readme.vercel.app/api/972266259372703764">
     </a>
 </p>
 
