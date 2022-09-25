@@ -5,9 +5,9 @@
 - 📫 How to reach me c0ld#4905 
 
 <p align="center">
-    <a href="[https://github.com/wokonly%22%3E](https://github.com/c0ld-is-hot)
-        <img src="https://discord-readme.vercel.app/api/972266259372703764
+    <a href="[https://github.com/c0ld-is-hot
+        <img src="[https://discord-readme.vercel.app/api/972266259372703764
     </a>
 </p>
 
-![Profile views]([https://gpvc.arturio.dev/wokonly](https://gpvc.arturio.dev/c0ld-is-hot))
+![Profile views]([https://gpvc.arturio.dev/c0ld-is-hot])
